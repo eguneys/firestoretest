@@ -1,0 +1,12 @@
+{
+  "name": "firestoretest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^4.8.1"
+  }
+}
